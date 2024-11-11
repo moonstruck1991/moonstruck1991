@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moonstruck1991(Prateek Sinha)
+- 👋 Hi, I’m Prateek Sinha
 - 👀 I’m interested in SDE, Machine Learning, DSA, etc.
 - 🌱 I’m currently learning Mathematics and Computing from IITD,
       currently in 3rd year.
